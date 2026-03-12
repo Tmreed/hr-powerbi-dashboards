@@ -1,0 +1,1 @@
+Employee Relations dashboard recreation using synthetic HR data.

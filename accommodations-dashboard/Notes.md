@@ -1,0 +1,1 @@
+Accommodations dashboard recreation using synthetic HR data.
